@@ -6,7 +6,7 @@ from tensorflow.keras import layers, models
 from sklearn.model_selection import train_test_split
 
 
-data_dir = 'DATA'
+data_dir = 'MNIST_DATA'
 
 
 sample_rate = 22050  
